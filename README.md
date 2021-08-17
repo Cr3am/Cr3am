@@ -27,8 +27,11 @@
 </p>
 
 ### 💻 &nbsp;Acerca de mi 
+
 -👾 &nbsp; Amo jugar y tengo dos juegos en particular los cuales son Haloce y NFSMW
+
 -🤖 &nbsp; Programador de Bots de discord 
+
 -💻 &nbsp; Se programar servidores linux e instalar todo tipo de Juegos o paneles en los mismos
 
 
