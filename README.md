@@ -38,7 +38,7 @@
 ##  🤝🏻 &nbsp;Aprende A programar 
 
 <p align="center">
-<a href="https://discord.gg/FzsJeBPKGM"><img src="https://img.shields.io/badge/Crea Tu Bot-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://discord.gg/A6KupHA2eK"><img src="https://img.shields.io/badge/Zaicadi@ Botlist & Serverlist-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/tS3DdeE6NB"><img src="https://img.shields.io/badge/Crea Tu Bot-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/tS3DdeE6NB"><img src="https://img.shields.io/badge/Zaicadi@ Botlist & Serverlist-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </a>
 
