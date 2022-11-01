@@ -17,6 +17,10 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  
+## Me
+
+<a href="https://discord.com/users/672951993165152266"><img src="https://discord.c99.nl/widget/theme-2/672951993165152266.png" /></a>
 
 ## My Stats
 <p style="display: inline-block">
